@@ -51,7 +51,12 @@ Now we can start. There are steps that I always follow.
  3. Gaining Access
      * Choose your Tool and Exploit 
      * Increase your privilege to Administrator 
-
+ 4. Maintaining Access
+     * Keep the Access for Future Exploitation and Attacks
+     * Open a Backdoor
+ 5. Clear your Tracks
+     * Delete Logs, Installed Programs, Registry, etc.
+     * No evidence = No proof 
 
 
 
