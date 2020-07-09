@@ -12,9 +12,8 @@ Active and Passive ways.
 - NsLookup
      * A command Like 'Whois', gather information about target like: <br>
      The name of the servers, Server IP, etc.
+     <br><br>
+     ![alt text](https://geek-university.com/wp-content/images/linux/nslookup_mx.jpg)
      <br>
-      ![alt text](  https://geek-university.com/wp-content/images/linux/nslookup_mx.jpg)
-   
-
 
 ## Documentation
