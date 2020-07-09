@@ -22,7 +22,7 @@ in other testing methodologies that ensures the security of an organization's in
 ### How To Start?
 Before we get into Ethical Hacking, we need to have a basic understanding of a few things. These are,<br>
 #### Rules: 
- - Always obtain permission before testing a security
+ - Always request written permission before testing a security
  - We don't break or steal, We Test!
  - Respect the privacy of the other
  - Think like <b>Black Hat</b> hackers and solve the problems like <b>White Hat</b>
