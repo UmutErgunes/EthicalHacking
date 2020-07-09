@@ -2,7 +2,7 @@
 We can obtain information from our target in various ways. 
 Active and Passive ways.
 
-<b>Passive</b>: Gathering information without contacting the target. <br>
+<b>Passive</b>: Gathering information without contacting the target. Online sources. <br>
 <b>Active</b>: Information collection that is scanned by accessing the target system or simultaneously in the target system.<br>
 ## Tools
 ### Passive:
