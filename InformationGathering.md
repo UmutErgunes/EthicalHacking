@@ -5,7 +5,8 @@ Active and Passive ways.
 ## Tools
 ### Passive:
 - Whois
-     * Whois Command in Kali Linux gather useful informations like: the domain, .
+     * Whois Command in Kali Linux gather useful informations like: the domain, Registry Domain ID, Admin Country, Servers, etc.
+     <br><br>
      ![alt text](https://www.cyberpratibha.com/blog/wp-content/uploads/2014/06/whois-ip-address.png)
      <br>
 - NsLookup
