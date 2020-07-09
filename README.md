@@ -41,7 +41,7 @@ Now we can start!
 -  What you do, how you did, what did you find, where did you find, etc.
 -  Note everything in Notepad or Cherrytree in Kali Linux. 
  ```
- 1. Information Gathering
+ 1. [Information Gathering](https://github.com/UmutErgunes/EthicalHacking/blob/master/InformationGathering.md)
      * We gonna collect all the information about our target from different sources.
      * You can find information active and passive.
  2. Scanning
