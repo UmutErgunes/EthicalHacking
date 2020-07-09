@@ -37,10 +37,11 @@ Before we get into Ethical Hacking, we need to have a basic understanding of a f
 Now we can start. There are steps that I always follow.
 
 ### Step-by-step
- I always take notes and I also strongly recommend everyone to take notes. <br>
- What you do, how you did, what did you find, where did you find, etc. <br>
- Note everything in Notepad or Cherrytree in Kali Linux. <br>
- 
+```diff
+-  I always take notes and I also strongly recommend everyone to take notes.
+-  What you do, how you did, what did you find, where did you find, etc.
+-  Note everything in Notepad or Cherrytree in Kali Linux. 
+ ```
  1. Information Gathering
      * The most important step. Here we are going to collect all the information from different sources.
      * You can find information active and passive.
