@@ -14,6 +14,14 @@ Active and Passive ways.
      The name of the servers, Server IP, etc.
      <br><br>
      ![alt text](https://geek-university.com/wp-content/images/linux/nslookup_mx.jpg)
+     <br><br>
+- Dig
+     * Alternative tool for 'Whois & NsLookup'
+     <br><br>
+     ![alt text](https://www.cyberpratibha.com/wp-content/uploads/2015/12/dig-authority.jpg)
      <br>
+     
+       
+   
 
 ## Documentation
