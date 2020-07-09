@@ -42,7 +42,7 @@ Now we can start!
 -  Note everything in Notepad or Cherrytree in Kali Linux. 
  ```
  1. Information Gathering
-     * The most important step. Here we are going to collect all the information from different sources.
+     * We gonna collect all the information about our target from different sources.
      * You can find information active and passive.
  2. Scanning
      * We will scan our target
