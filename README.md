@@ -33,7 +33,7 @@ Before we get into Ethical Hacking, we need to have a basic understanding of a f
  - Routing & Switching
 
 
-Now we can start. There are steps that I always follow.
+Now we can start!
 
 ### Step-by-step
 ```diff
