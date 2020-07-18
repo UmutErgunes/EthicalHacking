@@ -44,7 +44,7 @@ Now we can start!
  1. [Information Gathering](https://github.com/UmutErgunes/EthicalHacking/blob/master/InformationGathering.md)
      * We gonna collect all the information about our target from different sources.
      * You can find information active and passive.
- 2. Scanning
+ 2. [Scanning](https://github.com/UmutErgunes/EthicalHacking/blob/master/Scanning.md)
      * We will scan our target
      * We are going to look for 3 things: Ports, Network & Vulnerability.
  3. Gaining Access
