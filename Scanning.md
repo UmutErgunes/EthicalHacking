@@ -40,5 +40,13 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
      * nmap -sS -p1,55,155 192.168.0.1/24  <b>-> Scans only ports 1, 55 and 155 </b>
      * nmap -sS -p- 192.168.0.1/24  <b>-> Scans all the ports (65535 ports) </b>
      
-
+#### Service and version exploration
+- Exemples:
+     * nmap -sS -O 192.168.0.1/24  <b>-> Scans the Operating System </b>
+     * nmap -sS -A 192.168.0.1/24  <b>-> Scans the Operating System and Version </b>
+     
+#### Bypass Firewalls
+- Exemples:
+     * nmap -f 192.168.0.1/24  <b>-> It sends the packages by splitting with the 'Fragroute' technique. </b>
+     * nmap -D {spoofif} 192.168.0.1/24  <b>-> Makes Fake Ip Request</b>
 
