@@ -54,3 +54,6 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
      * nmap -spoof-mac {mac} 192.168.0.1/24  <b>-> Makes a Request by changing MAC address</b>
 
 ## Legion
+<b> Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. </b>
+
+
