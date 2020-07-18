@@ -56,4 +56,6 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 ## Legion
 <b> Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. </b>
 
+ ![alt text](https://i1.wp.com/lifars.com/wp-content/uploads/2020/04/LEGION-demo-adding-hosts-and-quick-overview.jpg?resize=720%2C547&ssl=1)
+
 
