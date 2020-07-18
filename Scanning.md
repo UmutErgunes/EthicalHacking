@@ -63,4 +63,9 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 <b> Nessus is the most famous and effective cross-platform vulnerability scanner. It has a Graphical User Interface and is compatible with almost every operating system including Windows, MAC and Unix like Operating systems. </b>
 
  ![alt text](https://www.tenable.com/sites/all/themes/tenablefourteen/img/nessus/nessus-live-results_large.png)
+ 
+ 
+ ## Nikto
+<b>Nikto is a simple, free and Open Source Scanner which is able to perform scanning for more than 6400 potentials threats and files. It also scans Web Server’s version to check for version related problems. It scans Web Server’s configurations such as HTTP allowed methods, default directories and files. It also supports plugins, proxies, different output formats and multiple scan options.</b>
 
+ ![alt text](https://i.ytimg.com/vi/sN6RU3j6f2g/maxresdefault.jpg)
