@@ -9,7 +9,7 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 <b>Vulnerability Scan</b>: Used to discover the presence of known vulnerabilities <br>
 
 
-#### Nmap
+### Nmap
 - Exemples:
      * nmap -sP 192.168.0.1/24  <b>-> Ping analysis </b>
      * nmap -PS 192.168.0.1/24  <b>-> TCP - SYN analysis </b>
@@ -51,3 +51,4 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
      * nmap -D {spoofif} 192.168.0.1/24  <b>-> Makes Fake Ip Request</b>
      * nmap -spoof-mac {mac} 192.168.0.1/24  <b>-> Makes a Request by changing MAC address</b>
 
+### Legion
