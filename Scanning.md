@@ -49,4 +49,5 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 - Exemples:
      * nmap -f 192.168.0.1/24  <b>-> It sends the packages by splitting with the 'Fragroute' technique. </b>
      * nmap -D {spoofif} 192.168.0.1/24  <b>-> Makes Fake Ip Request</b>
+     * nmap -spoof-mac {mac} 192.168.0.1/24  <b>-> Makes a Request by changing MAC address</b>
 
