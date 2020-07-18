@@ -28,5 +28,14 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 #### TCP Scan
 - Example:
      * nmap -sT 192.168.0.1/24  
-    
+
+#### UDP Scan
+- Example:
+     * nmap -sU 192.168.0.1/24  
+     
+#### Specific Ports
+- Exemples:
+     * nmap -sS -p80 192.168.0.1/24  <b>-> Scans only the 80 port </b>
+     
+
 
