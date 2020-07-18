@@ -36,6 +36,9 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 #### Specific Ports
 - Exemples:
      * nmap -sS -p80 192.168.0.1/24  <b>-> Scans only the 80 port </b>
+     * nmap -sS -p1-100 192.168.0.1/24  <b>-> Scans the ports between 1 to 100 </b>
+     * nmap -sS -p1,55,155 192.168.0.1/24  <b>-> Scans only ports 1, 55 and 155 </b>
+     * nmap -sS -p- 192.168.0.1/24  <b>-> Scans all the ports (65535 ports) </b>
      
 
 
