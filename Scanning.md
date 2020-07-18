@@ -11,8 +11,13 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 
 #### Port Scan - Nmap
 - Exemples:
-     * nmap -sP 192.168.0.1/24  -> Ping analysis performed
-     * nmap -PS 192.168.0.1/24  -> TCP - SYN analysis performed
-     * nmap -PA 192.168.0.1/24  -> TCP - ACK analysis performed
-     * nmap -PE 192.168.0.1/24  -> ICMP Echo Request analysis performed
-     * nmap -PU 192.168.0.1/24  -> UDP analysis performed
+     * nmap -sP 192.168.0.1/24  -> Ping analysis 
+     * nmap -PS 192.168.0.1/24  -> TCP - SYN analysis 
+     * nmap -PA 192.168.0.1/24  -> TCP - ACK analysis 
+     * nmap -PE 192.168.0.1/24  -> ICMP Echo Request analysis 
+     * nmap -PU 192.168.0.1/24  -> UDP analysis 
+     * nmap -PR 192.168.0.1/24  -> ARP Ping analysis 
+     * nmap -traceroute 192.168.0.1/24  -> Makes the path analysis of the package 
+     * nmap -R 192.168.0.1/24  -> Performs hostname exploration from IP address
+     * nmap -system-dns 192.168.0.1/24  -> DNS servers in the operating system are used
+
