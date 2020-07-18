@@ -21,3 +21,12 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
      * nmap -R 192.168.0.1/24  <b>-> Performs hostname exploration from IP address</b>
      * nmap -system-dns 192.168.0.1/24  <b> -> DNS servers in the operating system are used</b>
 
+#### SYN Scan
+- Example:
+     * nmap -sS 192.168.0.1/24 
+
+#### TCP Scan
+- Example:
+     * nmap -sT 192.168.0.1/24  
+    
+
