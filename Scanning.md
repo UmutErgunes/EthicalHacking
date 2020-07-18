@@ -10,6 +10,8 @@ We are going to look for 3 things: Ports, Network & Vulnerability.
 
 
 ## Nmap
+<b>Nmap, short for Network Mapper, is a free, open-source tool for vulnerability scanning and network discovery. Network administrators use Nmap to identify what devices are running on their systems, discovering hosts that are available and the services they offer, finding open ports and detecting security risks.</b>
+<br>
 - Exemples:
      * nmap -sP 192.168.0.1/24  <b>-> Ping analysis </b>
      * nmap -PS 192.168.0.1/24  <b>-> TCP - SYN analysis </b>
